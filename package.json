@@ -1,0 +1,30 @@
+{
+  "name": "about-me-next",
+  "version": "1.0.0",
+  "description": "about me app using next",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "next",
+    "build": "next build",
+    "now-build":"next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "next",
+    "app"
+  ],
+  "author": "mark",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "4.6.0",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-bootstrap": "1.6.1",
+    "react-dom": "17.0.2"
+  }
+}
